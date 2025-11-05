@@ -1,1 +1,1 @@
-# quick-commit
+My first commit for the quest.
